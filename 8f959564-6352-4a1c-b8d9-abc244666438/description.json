@@ -1,0 +1,7 @@
+{
+   "description" : "The preset template for ElecMag Trains. Want to create your own? This follows ALL ElecMag Train laws!",
+   "localId" : "8f959564-6352-4a1c-b8d9-abc244666438",
+   "name" : "ElecMag: Train instruction template",
+   "type" : "Blueprint",
+   "version" : 0
+}
